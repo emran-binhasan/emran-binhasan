@@ -2,7 +2,7 @@
 
 ## Full-Stack Web Developer | React, Node.js, MongoDB | Passionate About Modern Web Technologies
 
-Welcome to my GitHub profile! I’m a passionate **Full-Stack Web Developer** from Bangladesh, currently building impactful web applications using **React**, **Node.js**, and **MongoDB**.
+Welcome to my GitHub profile! I’m a passionate **Full-Stack Web Developer** from Bangladesh, currently building impactful web applications using **React**, **Node.js**, and **MongoDB**. I love creating clean, functional, and user-friendly web apps that make a difference. 💻✨
 
 ---
 
@@ -21,49 +21,11 @@ Here’s a quick look at the technologies I work with:
 
 ---
 
-## 💼 Featured Projects
-
-Here are two cool projects I've worked on:
-
-<div align="center">
-    <div style="display: flex; justify-content: space-between; align-items: center; width: 100%; max-width: 960px; margin: 20px;">
-    <div>
-        <a href="https://github.com/emran-binhasan/dream-team" target="_blank" style="display: block; text-align: left; margin-right: 20px; width: 45%; padding: 15px; border: 2px solid #4CAF50; border-radius: 10px; background-color: transparent; transition: transform 0.3s ease-in-out;">
-            <div style="margin-bottom: 10px;">
-                <img src="https://via.placeholder.com/150x100?text=Dream+Team" alt="Dream Team" style="border-radius: 8px; width: 100%; object-fit: cover;">
-            </div>
-            <h3>Dream Team</h3>
-            <p>Build your ultimate cricket team with dynamic player data.</p>
-        </a>
-    </div>
-    <div>
-        <a href="https://github.com/emran-binhasan/peddy" target="_blank" style="display: block; text-align: right; width: 45%; padding: 15px; border: 2px solid #FF6F61; border-radius: 10px; background-color: transparent; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease-in-out;">
-            <div style="margin-bottom: 10px;">
-                <img src="https://via.placeholder.com/150x100?text=Peddy" alt="Peddy" style="border-radius: 8px; width: 100%; object-fit: cover;">
-            </div>
-            <h3>Peddy</h3>
-            <p>Adopt your perfect pet with ease using this platform.</p>
-        </a>
-    </div>
-</div>
-
-<div align="center">
-    <a href="https://github.com/emran-binhasan/language-learning-app" target="_blank">
-        <div style="display: inline-block; margin: 10px; padding: 20px; border: 2px solid #00A9A9; border-radius: 10px; text-align: center; width: 220px; background-color: transparent; transition: transform 0.3s ease-in-out;">
-            <h3>Language Learning App</h3>
-            <p>Interactive app to enhance language learning and vocabulary retention.</p>
-            <img src="https://via.placeholder.com/200x120?text=Language+App" alt="Language Learning App" style="border-radius: 8px; width: 100%; max-height: 120px; object-fit: cover;">
-        </div>
-    </a>
-</div>
-
----
-
-## 📊 GitHub Stats & Contributions
+## 🎯 My GitHub Stats & Contributions
 
 ### Contribution Stats
 
-Here’s a quick look at my contribution streak, total contributions, and longest streak:
+Here’s a quick look at my **contribution streak**, **total contributions**, and **longest streak**:
 
 <div align="center">
     <a href="https://github.com/emran-binhasan" target="_blank">
@@ -73,7 +35,7 @@ Here’s a quick look at my contribution streak, total contributions, and longes
 
 ---
 
-### Languages Used
+### Most Used Languages
 
 Here are the most frequently used languages across my repositories:
 
@@ -87,18 +49,49 @@ Here are the most frequently used languages across my repositories:
 
 - Building full-stack applications using **React** and **Node.js**.
 - Enhancing my skills with **Firebase Authentication** and **Cloud Functions**.
-- Exploring new tools and frameworks for better web performance.
+- Exploring new tools and frameworks for better web performance and scalability.
 
 ---
 
-## 📞 Let's Connect!
+## 🎬 Fun With Animation & Icons
 
-If you’d like to discuss projects or collaborate, feel free to reach out to me!
+Here’s a little fun with animated icons to showcase my personality:
+
+<div align="center">
+    <img src="https://img.shields.io/badge/-HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=white&animation=spin" alt="HTML5" />
+    <img src="https://img.shields.io/badge/-CSS3-4A90E2?style=for-the-badge&logo=css3&logoColor=white&animation=pulse" alt="CSS3" />
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&animation=spin" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&animation=pulse" alt="React" />
+</div>
+
+---
+
+## 📞 Let’s Connect!
+
+I love collaborating on exciting projects and discussing innovative ideas. Feel free to reach out:
 
 - [LinkedIn](https://www.linkedin.com/in/emran-binhasan)
 - [Twitter](https://twitter.com/emran-binhasan)
+- [Facebook](https://web.facebook.com/profile.php?id=61568535268975)
 - Email: emranbinhasan.zero@gmail.com
 
 ---
 
-## 🌟 Let's Build Something Great Together!
+## 📚 Let's Learn Together!
+
+I enjoy solving challenges on **LeetCode** and **HackerRank**. Check out my profiles below:
+
+<div align="center">
+    <a href="https://leetcode.com/emran-binhasan" target="_blank">
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    </a>
+    <a href="https://www.hackerrank.com/emranbinhasan" target="_blank">
+        <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+    </a>
+</div>
+
+---
+
+## 🌟 Let’s Build Something Great Together!
+
+![developer GIF](https://media.giphy.com/media/dWpzv3jH9uXv2/giphy.gif)
