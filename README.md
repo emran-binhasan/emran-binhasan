@@ -64,7 +64,14 @@ Here are the most frequently used languages across my repositories:
 I love collaborating on exciting projects and discussing innovative ideas. Feel free to reach out:
 
 <div align="center">
-<img href='https://web.facebook.com/profile.php?id=61568535268975' src="https://user-images.githubusercontent.com/74038190/235294008-ed8de58b-d4d0-4790-aa81-a39fdc8a1e50.gif" width="40">
+<div>
+
+[Facebook](https://web.facebook.com/profile.php?id=61568535268975)
+<img src="https://user-images.githubusercontent.com/74038190/235294008-ed8de58b-d4d0-4790-aa81-a39fdc8a1e50.gif" width="40">
+</div>
+<div></div>
+<div></div>
+<div></div>
 <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="40">
 <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="40">
 <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="40">
@@ -74,7 +81,7 @@ I love collaborating on exciting projects and discussing innovative ideas. Feel 
 
  [LinkedIn](https://www.linkedin.com/in/emran-binhasan)
  [Twitter](https://twitter.com/emran-binhasan)
- [Facebook](https://web.facebook.com/profile.php?id=61568535268975)
+
  Email: emranbinhasan.zero@gmail.com
 
 ---
