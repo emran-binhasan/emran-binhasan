@@ -33,7 +33,8 @@ Here are some of the cool projects I've worked on:
             <img src="https://via.placeholder.com/200x120?text=Dream+Team" alt="Dream Team" style="border-radius: 8px;">
         </div>
     </a>
-
+</div>
+<div>
     <a href="https://github.com/emran-binhasan/peddy" target="_blank">
         <div style="display: inline-block; margin: 10px; padding: 20px; border: 2px solid #FF6F61; border-radius: 10px; text-align: center; width: 220px; background-color: #f4f4f4;">
             <h3>Peddy</h3>
@@ -41,7 +42,8 @@ Here are some of the cool projects I've worked on:
             <img src="https://via.placeholder.com/200x120?text=Peddy" alt="Peddy" style="border-radius: 8px;">
         </div>
     </a>
-
+</div>
+<div>
     <a href="https://github.com/emran-binhasan/language-learning-app" target="_blank">
         <div style="display: inline-block; margin: 10px; padding: 20px; border: 2px solid #00A9A9; border-radius: 10px; text-align: center; width: 220px; background-color: #f4f4f4;">
             <h3>Language Learning App</h3>
