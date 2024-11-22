@@ -23,24 +23,28 @@ Here’s a quick look at the technologies I work with:
 
 ## 💼 Featured Projects
 
-Here are some of the cool projects I've worked on:
+Here are two cool projects I've worked on:
 
 <div align="center">
-    <a href="https://github.com/emran-binhasan/dream-team" target="_blank">
-        <div style="display: inline-block; margin: 10px; padding: 20px; border: 2px solid #4CAF50; border-radius: 10px; text-align: center; width: 220px; background-color: transparent; transition: transform 0.3s ease-in-out;">
+    <div style="display: flex; justify-content: space-between; align-items: center; width: 100%; max-width: 960px; margin: 20px;">
+    <div>
+        <a href="https://github.com/emran-binhasan/dream-team" target="_blank" style="display: block; text-align: left; margin-right: 20px; width: 45%; padding: 15px; border: 2px solid #4CAF50; border-radius: 10px; background-color: transparent; transition: transform 0.3s ease-in-out;">
+            <div style="margin-bottom: 10px;">
+                <img src="https://via.placeholder.com/150x100?text=Dream+Team" alt="Dream Team" style="border-radius: 8px; width: 100%; object-fit: cover;">
+            </div>
             <h3>Dream Team</h3>
             <p>Build your ultimate cricket team with dynamic player data.</p>
-            <img src="https://via.placeholder.com/200x120?text=Dream+Team" alt="Dream Team" style="border-radius: 8px; width: 100%; max-height: 120px; object-fit: cover;">
-        </div>
-    </a>
-
-    <a href="https://github.com/emran-binhasan/peddy" target="_blank">
-        <div style="display: inline-block; margin: 10px; padding: 20px; border: 2px solid #FF6F61; border-radius: 10px; text-align: center; width: 220px; background-color: transparent; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease-in-out;">
+        </a>
+    </div>
+    <div>
+        <a href="https://github.com/emran-binhasan/peddy" target="_blank" style="display: block; text-align: right; width: 45%; padding: 15px; border: 2px solid #FF6F61; border-radius: 10px; background-color: transparent; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease-in-out;">
+            <div style="margin-bottom: 10px;">
+                <img src="https://via.placeholder.com/150x100?text=Peddy" alt="Peddy" style="border-radius: 8px; width: 100%; object-fit: cover;">
+            </div>
             <h3>Peddy</h3>
             <p>Adopt your perfect pet with ease using this platform.</p>
-            <img src="https://via.placeholder.com/200x120?text=Peddy" alt="Peddy" style="border-radius: 8px; width: 100%; max-height: 120px; object-fit: cover;">
-        </div>
-    </a>
+        </a>
+    </div>
 </div>
 
 <div align="center">
@@ -64,12 +68,6 @@ Here’s a quick look at my contribution streak, total contributions, and longes
 <div align="center">
     <a href="https://github.com/emran-binhasan" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api?username=emran-binhasan&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark" alt="Emran's GitHub Stats" />
-    </a>
-</div>
-
-<div align="center">
-    <a href="https://github.com/emran-binhasan" target="_blank">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=emran-binhasan&theme=dark&hide_border=true" alt="GitHub Streak" />
     </a>
 </div>
 
@@ -99,7 +97,7 @@ If you’d like to discuss projects or collaborate, feel free to reach out to me
 
 - [LinkedIn](https://www.linkedin.com/in/emran-binhasan)
 - [Twitter](https://twitter.com/emran-binhasan)
-- Email: emran@example.com (replace with your actual email)
+- Email: emranbinhasan.zero@gmail.com
 
 ---
 
