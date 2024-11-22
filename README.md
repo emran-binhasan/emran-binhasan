@@ -1,5 +1,9 @@
 # 👋 Hi, I'm Emran Bin Hasan!
 
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200">
+<br><br>
+
+
 ## Full-Stack Web Developer | React, Node.js, MongoDB | Passionate About Modern Web Technologies
 
 Welcome to my GitHub profile! I’m a passionate **Full-Stack Web Developer** from Bangladesh, currently building impactful web applications using **React**, **Node.js**, and **MongoDB**. I love creating clean, functional, and user-friendly web apps that make a difference. 💻✨
@@ -9,6 +13,16 @@ Welcome to my GitHub profile! I’m a passionate **Full-Stack Web Developer** fr
 ## 🚀 Technologies & Tools
 
 Here’s a quick look at the technologies I work with:
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/235294008-ed8de58b-d4d0-4790-aa81-a39fdc8a1e50.gif" width="40">
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="40">
+<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="40">
+<img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="40">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="40">
+</div>
+
+
 
 <div align="center">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
@@ -79,18 +93,6 @@ I enjoy solving challenges on **LeetCode** and **HackerRank**. Check out my prof
 </div>
 
 
-<br><br>    
 
 
 
-
-<img src="https://user-images.githubusercontent.com/74038190/235294008-ed8de58b-d4d0-4790-aa81-a39fdc8a1e50.gif" width="40">
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="40">
-<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="40">
-<img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="40">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="40">
-<br><br>
-
-- Awesome Workspace
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200">
-<br><br>
