@@ -541,9 +541,7 @@ I enjoy solving challenges on **LeetCode** and **HackerRank**. Check out my prof
 </div>
 <br><br>
 
-- Ying Yang to Cats
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6357eb37-3a0e-4efe-b015-ce8b14e910d6" width="500">
-<br><br>
+
 
 - Cool Haha
 <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="200">
@@ -587,9 +585,7 @@ I enjoy solving challenges on **LeetCode** and **HackerRank**. Check out my prof
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6f28d73e-0d7e-4a6c-8ddf-bb24b69a71c0" width="400">
 <br><br>
 
-- Friday
-<img src="https://user-images.githubusercontent.com/74038190/230733742-d1aa194d-862c-49a5-af76-e610921d83e7.gif" width="400">
-<br><br>
+
 
 - Pixel GiFs
 <div>
@@ -610,33 +606,6 @@ I enjoy solving challenges on **LeetCode** and **HackerRank**. Check out my prof
 <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="400">
 <br><br>
 
-- Ultra Fast typing Cat
-<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="400">
-<br><br>
-
-- Everything's a copy of a copy of a copy
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f606466f-4cc9-4cb1-8ad6-80a7eeea9e7e" width="400">
-<br><br>
-
-- Junior Developer After Serious Mistake
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9db4b864-a764-468f-9052-7bfa1bfe9a74" width="400">
-<br><br>
-
-- Conflict at every PR
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/504a2680-59a6-420e-b297-5ae89d68e377" width="400">
-<br><br>
-
-- How programmers feel when code doesn't works
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/491e3e44-11a0-487a-b07b-717f677bbe4a" width="400">
-<br><br>
-
-- Deep Focus
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/82f73bdc-f54b-4803-ace4-1c019cb875ab" width="400">
-<br><br>
-
-- Sleepy Head
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fe8225a5-f084-45cb-9a28-a0c2c8634872" width="400">
-<br><br>
 
 - I am bored
 <img src="https://user-images.githubusercontent.com/74038190/212745723-c7c386dc-108c-4a50-9c76-0f90afb2c0fa.gif" width="300">
@@ -658,13 +627,7 @@ I enjoy solving challenges on **LeetCode** and **HackerRank**. Check out my prof
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/95185e07-8f10-47db-85ae-b11c472f35ab" width="200">
 <br><br>
 
-- Tappity
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0f974935-dad2-4dc1-8146-5159dbb6d3e8" width="300">
-<br><br>
 
-- Roll & Work
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6c1e9fe7-c8d3-4db6-a7cb-092170a81f66" width="300">
-<br><br>
 
 - I have no idea what I'm doing
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/87360948-7b92-4852-91f7-ff62ddb8fcd4" width="300">
@@ -742,17 +705,7 @@ I enjoy solving challenges on **LeetCode** and **HackerRank**. Check out my prof
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/5f6597b4-ff7c-4415-9272-d95759df842f" width="400">
 <br><br>
 
-- Smiley Bomb
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/315afd9b-24e5-4256-ba38-8da3616f7f5e" width="400">
-<br><br>
 
-- 9 to 5 Job
-<img src="https://user-images.githubusercontent.com/74038190/214375883-4dca62e9-afbe-4b40-8aec-02ca35d614df.gif" width="200">
-<br><br>
-
-- It's Not a bug! It's a Feature!!
-<img src="https://user-images.githubusercontent.com/74038190/213760482-f7fa7b7b-7d6c-4063-bdd7-4483749948ad.gif" width="300">
-<br><br>
 
 - Fixing a bug in production
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4577b4e3-eb20-42ea-8088-c745981f3c82" width="300">
@@ -782,62 +735,6 @@ I enjoy solving challenges on **LeetCode** and **HackerRank**. Check out my prof
 <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="200">
 <br><br>
 
-- Mission Bug Termination
-<img src="https://user-images.githubusercontent.com/74038190/215283039-83bf4f37-3fe5-4d25-a42a-249d1a7e9e4f.gif" width="200">
-<br><br>
-
-- Hard Life
-<img src="https://user-images.githubusercontent.com/74038190/215283228-89a6af16-23b1-4144-ac9b-064dc973b3db.gif" width="200">
-<br><br>
-
-- I wonder
-<img src="https://user-images.githubusercontent.com/74038190/212896001-c2105e17-255f-4816-b348-8cfddfe2a915.gif" width="300">
-<br><br>
-
-- Pro Level Debugging
-<img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" width="200">
-<br><br>
-
-- How my code works?
-<img src="https://user-images.githubusercontent.com/74038190/212897782-96581536-54a0-4b87-87b4-5e55f95e8a8b.gif" width="300">
-<br><br>
-
-- Why my code works?
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/330af13b-6435-4505-8a02-1869b677f9eb" width="300">
-<br><br>
-
-- Barcode Generator
-<img src="https://user-images.githubusercontent.com/74038190/215283417-55c9fe42-d47b-4b51-94d1-cfc135280cbd.gif" width="200">
-<br><br>
-
-- Everytime I do a git pull, and there is a conflict
-<img src="https://user-images.githubusercontent.com/74038190/218266069-da299265-d22b-41f5-99f1-cf8bfa951c42.gif" width="200">
-<br><br>
-
-- Peace with oneself
-<img src="https://user-images.githubusercontent.com/74038190/215283043-76c34df4-b495-46c3-b174-7aca38032b91.gif" width="200">
-<br><br>
-
-- Monday arrives again!!
-<img src="https://user-images.githubusercontent.com/74038190/218265809-298cf362-076e-42fe-a107-37d98bd4b965.gif" width="200">
-<br><br>
-
-- Robot Arm Boogies Hard: Getting Jiggy with it!
-<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="200">
-<br><br>
-
-- Programming
-<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300">
-<br><br>
-
-- I'm Coding
-<img src="https://user-images.githubusercontent.com/74038190/214375120-7b484054-1907-4c4d-96d9-eb76cd91ee49.gif" width="300">
-<br><br>
-
-- Creepy eyes
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/65d3d964-e2f3-4939-b4a7-559e0380197f" width="300">
-<br><br>
-
 - GitHub is Good
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/49abd3ca-b048-4f27-b7e0-ea6a7b172ac3" width="300">
 <br><br>
@@ -846,31 +743,7 @@ I enjoy solving challenges on **LeetCode** and **HackerRank**. Check out my prof
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0d554abf-6a41-4856-be43-5dbb4df0915b" width="300">
 <br><br>
 
-- Dangerous Root Deletion
-<img src="https://user-images.githubusercontent.com/74038190/229223143-574f6669-d12e-47b4-8d51-f7083e3dc399.gif" width="300">
-<br><br>
-
-- I skip documentation
-<img src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d42751461a9d.gif" width="300">
-<br><br>
-
-<br><br> 
-
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Awesome Banners ----------------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
-## Awesome Banners [🔝](#--gifs-for-readme--)
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c288471c-be67-4fbb-af44-1c63ee9ed280" />
-
-<br><br>
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
-
-<br><br>
-
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Cool Working Stickers ----------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
