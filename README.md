@@ -64,26 +64,16 @@ Here are the most frequently used languages across my repositories:
 I love collaborating on exciting projects and discussing innovative ideas. Feel free to reach out:
 
 <div align="center">
-<div>
-
-[Facebook](https://web.facebook.com/profile.php?id=61568535268975)
-<img src="https://user-images.githubusercontent.com/74038190/235294008-ed8de58b-d4d0-4790-aa81-a39fdc8a1e50.gif" width="40">
+  <a href="https://www.linkedin.com/in/emran-binhasan" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294008-ed8de58b-d4d0-4790-aa81-a39fdc8a1e50.gif" width="40">
+  </a>
+  <a href="https://twitter.com/emran-binhasan" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="40">
+  </a>
+  <a href="https://web.facebook.com/profile.php?id=61568535268975" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="40">
+  </a>
 </div>
-<div></div>
-<div></div>
-<div></div>
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="40">
-<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="40">
-<img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="40">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="40">
-</div>
-
-
- [LinkedIn](https://www.linkedin.com/in/emran-binhasan)
- [Twitter](https://twitter.com/emran-binhasan)
-
- Email: emranbinhasan.zero@gmail.com
-
 ---
 
 ## 📚 Let's Learn Together!
