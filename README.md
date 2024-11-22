@@ -27,7 +27,7 @@ Here are some of the cool projects I've worked on:
 
 <div align="center">
     <a href="https://github.com/emran-binhasan/dream-team" target="_blank">
-        <div style="display: inline-block; margin: 10px; padding: 20px; border: 2px solid #4CAF50; border-radius: 10px; text-align: center; width: 220px; background-color: #f4f4f4; transition: transform 0.3s ease-in-out; animation: bounceIn 1s;">
+        <div style="display: inline-block; margin: 10px; padding: 20px; border: 2px solid #4CAF50; border-radius: 10px; text-align: center; width: 220px; background-color: transparent; transition: transform 0.3s ease-in-out;">
             <h3>Dream Team</h3>
             <p>Build your ultimate cricket team with dynamic player data.</p>
             <img src="https://via.placeholder.com/200x120?text=Dream+Team" alt="Dream Team" style="border-radius: 8px; width: 100%; max-height: 120px; object-fit: cover;">
@@ -35,15 +35,17 @@ Here are some of the cool projects I've worked on:
     </a>
 
     <a href="https://github.com/emran-binhasan/peddy" target="_blank">
-        <div style="display: inline-block; margin: 10px; padding: 20px; border: 2px solid #FF6F61; border-radius: 10px; text-align: center; width: 220px; background-color: #f4f4f4; transition: transform 0.3s ease-in-out; animation: bounceIn 1s;">
+        <div style="display: inline-block; margin: 10px; padding: 20px; border: 2px solid #FF6F61; border-radius: 10px; text-align: center; width: 220px; background-color: transparent; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease-in-out;">
             <h3>Peddy</h3>
             <p>Adopt your perfect pet with ease using this platform.</p>
             <img src="https://via.placeholder.com/200x120?text=Peddy" alt="Peddy" style="border-radius: 8px; width: 100%; max-height: 120px; object-fit: cover;">
         </div>
     </a>
+</div>
 
+<div align="center">
     <a href="https://github.com/emran-binhasan/language-learning-app" target="_blank">
-        <div style="display: inline-block; margin: 10px; padding: 20px; border: 2px solid #00A9A9; border-radius: 10px; text-align: center; width: 220px; background-color: #f4f4f4; transition: transform 0.3s ease-in-out; animation: bounceIn 1s;">
+        <div style="display: inline-block; margin: 10px; padding: 20px; border: 2px solid #00A9A9; border-radius: 10px; text-align: center; width: 220px; background-color: transparent; transition: transform 0.3s ease-in-out;">
             <h3>Language Learning App</h3>
             <p>Interactive app to enhance language learning and vocabulary retention.</p>
             <img src="https://via.placeholder.com/200x120?text=Language+App" alt="Language Learning App" style="border-radius: 8px; width: 100%; max-height: 120px; object-fit: cover;">
@@ -102,11 +104,3 @@ If you’d like to discuss projects or collaborate, feel free to reach out to me
 ---
 
 ## 🌟 Let's Build Something Great Together!
-
----
-
-### Visual Animated Badge
-
-Here’s a fun **animated effect** to showcase my development skills:
-
-![React Animation](https://media.giphy.com/media/K1uYbR93jl89uq2N0B/giphy.gif)
