@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Emran Bin Hasan!
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200">
-<br><br>
 
 
 ## Full-Stack Web Developer | React, Node.js, MongoDB | Passionate About Modern Web Technologies
@@ -64,13 +63,13 @@ Here are the most frequently used languages across my repositories:
 I love collaborating on exciting projects and discussing innovative ideas. Feel free to reach out:
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/emran-binhasan" target="_blank">
+  <a href="https://web.facebook.com/profile.php?id=61568535268975" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294008-ed8de58b-d4d0-4790-aa81-a39fdc8a1e50.gif" width="40">
   </a>
-  <a href="https://twitter.com/emran-binhasan" target="_blank">
+  <a href="https://www.linkedin.com/in/emran-binhasan" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="40">
   </a>
-  <a href="https://web.facebook.com/profile.php?id=61568535268975" target="_blank">
+  <a href="https://www.discordapp.com/users/1222312218159480893" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="40">
   </a>
 </div>
@@ -88,7 +87,6 @@ I enjoy solving challenges on **LeetCode** and **HackerRank**. Check out my prof
         <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
     </a>
 </div>
-
 
 
 
