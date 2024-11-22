@@ -27,30 +27,58 @@ Here are some of the cool projects I've worked on:
 
 <div align="center">
     <a href="https://github.com/emran-binhasan/dream-team" target="_blank">
-        <div style="display: inline-block; margin: 10px; padding: 20px; border: 2px solid #4CAF50; border-radius: 10px; text-align: center; width: 220px; background-color: #f4f4f4;">
+        <div style="display: inline-block; margin: 10px; padding: 20px; border: 2px solid #4CAF50; border-radius: 10px; text-align: center; width: 220px; background-color: #f4f4f4; transition: transform 0.3s ease-in-out; animation: bounceIn 1s;">
             <h3>Dream Team</h3>
             <p>Build your ultimate cricket team with dynamic player data.</p>
-            <img src="https://via.placeholder.com/200x120?text=Dream+Team" alt="Dream Team" style="border-radius: 8px;">
+            <img src="https://via.placeholder.com/200x120?text=Dream+Team" alt="Dream Team" style="border-radius: 8px; width: 100%; max-height: 120px; object-fit: cover;">
         </div>
     </a>
-</div>
-<div>
+
     <a href="https://github.com/emran-binhasan/peddy" target="_blank">
-        <div style="display: inline-block; margin: 10px; padding: 20px; border: 2px solid #FF6F61; border-radius: 10px; text-align: center; width: 220px; background-color: #f4f4f4;">
+        <div style="display: inline-block; margin: 10px; padding: 20px; border: 2px solid #FF6F61; border-radius: 10px; text-align: center; width: 220px; background-color: #f4f4f4; transition: transform 0.3s ease-in-out; animation: bounceIn 1s;">
             <h3>Peddy</h3>
             <p>Adopt your perfect pet with ease using this platform.</p>
-            <img src="https://via.placeholder.com/200x120?text=Peddy" alt="Peddy" style="border-radius: 8px;">
+            <img src="https://via.placeholder.com/200x120?text=Peddy" alt="Peddy" style="border-radius: 8px; width: 100%; max-height: 120px; object-fit: cover;">
+        </div>
+    </a>
+
+    <a href="https://github.com/emran-binhasan/language-learning-app" target="_blank">
+        <div style="display: inline-block; margin: 10px; padding: 20px; border: 2px solid #00A9A9; border-radius: 10px; text-align: center; width: 220px; background-color: #f4f4f4; transition: transform 0.3s ease-in-out; animation: bounceIn 1s;">
+            <h3>Language Learning App</h3>
+            <p>Interactive app to enhance language learning and vocabulary retention.</p>
+            <img src="https://via.placeholder.com/200x120?text=Language+App" alt="Language Learning App" style="border-radius: 8px; width: 100%; max-height: 120px; object-fit: cover;">
         </div>
     </a>
 </div>
-<div>
-    <a href="https://github.com/emran-binhasan/language-learning-app" target="_blank">
-        <div style="display: inline-block; margin: 10px; padding: 20px; border: 2px solid #00A9A9; border-radius: 10px; text-align: center; width: 220px; background-color: #f4f4f4;">
-            <h3>Language Learning App</h3>
-            <p>Interactive app to enhance language learning and vocabulary retention.</p>
-            <img src="https://via.placeholder.com/200x120?text=Language+App" alt="Language Learning App" style="border-radius: 8px;">
-        </div>
+
+---
+
+## 📊 GitHub Stats & Contributions
+
+### Contribution Stats
+
+Here’s a quick look at my contribution streak, total contributions, and longest streak:
+
+<div align="center">
+    <a href="https://github.com/emran-binhasan" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api?username=emran-binhasan&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark" alt="Emran's GitHub Stats" />
     </a>
+</div>
+
+<div align="center">
+    <a href="https://github.com/emran-binhasan" target="_blank">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=emran-binhasan&theme=dark&hide_border=true" alt="GitHub Streak" />
+    </a>
+</div>
+
+---
+
+### Languages Used
+
+Here are the most frequently used languages across my repositories:
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emran-binhasan&langs_count=5&layout=compact&theme=dark" alt="Languages Used"/>
 </div>
 
 ---
@@ -60,12 +88,6 @@ Here are some of the cool projects I've worked on:
 - Building full-stack applications using **React** and **Node.js**.
 - Enhancing my skills with **Firebase Authentication** and **Cloud Functions**.
 - Exploring new tools and frameworks for better web performance.
-
----
-
-## 📈 GitHub Stats
-
-![Emran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emran-binhasan&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 ---
 
@@ -83,20 +105,8 @@ If you’d like to discuss projects or collaborate, feel free to reach out to me
 
 ---
 
-### Animated Badge for Fun!
+### Visual Animated Badge
 
-To add a bit of animation, you can use an animated badge as a fun element:
+Here’s a fun **animated effect** to showcase my development skills:
 
-![Animated Badge](https://img.shields.io/badge/Full--Stack%20Developer-React%20%26%20Node.js-blue?logo=react&logoColor=white&labelColor=4CAF50&style=for-the-badge&logoWidth=20)
-
----
-
-This README includes:
-- **Technologies & Tools** with animated badges.
-- **Featured Projects** in a card-style layout (with clickable links).
-- **GitHub stats** to showcase your contributions.
-- **Social media and contact information** to make it easy for others to connect.
-
-Since GitHub README supports HTML, you can include **simple animations** like animated badges or GIFs, but keep in mind that complex animations like CSS/JS interactions won’t work directly in README files.
-
-Feel free to customize the links, project descriptions, and stats to match your content!
+![React Animation](https://media.giphy.com/media/K1uYbR93jl89uq2N0B/giphy.gif)
