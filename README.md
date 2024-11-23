@@ -38,7 +38,6 @@ Here’s a quick look at my **contribution streak**, **total contributions**, an
     </a>
 </div>
 
----
 
 ### Most Used Languages
 
