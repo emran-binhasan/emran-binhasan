@@ -9,10 +9,6 @@ Welcome to my GitHub profile! I’m a passionate **Full-Stack Web Developer** fr
 
 ---
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/emran-binhasan/&title=Profile%20Views&color=blue)
-
-
-
 
 ## 🚀 Technologies & Tools
 
