@@ -9,7 +9,8 @@ Welcome to my GitHub profile! I’m a passionate **Full-Stack Web Developer** fr
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=emran-binhasan&color=green)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/emran-binhasan/&title=Profile%20Views&color=blue)
+
 
 
 
