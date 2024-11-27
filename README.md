@@ -9,6 +9,10 @@ Welcome to my GitHub profile! I’m a passionate **Full-Stack Web Developer** fr
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=emran-binhasan&color=green)
+
+
+
 ## 🚀 Technologies & Tools
 
 Here’s a quick look at the technologies I work with:
@@ -23,8 +27,6 @@ Here’s a quick look at the technologies I work with:
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
     <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
 </div>
-
----
 
 ## 🎯 My GitHub Stats & Contributions
 
@@ -47,14 +49,12 @@ Here are the most frequently used languages across my repositories:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emran-binhasan&langs_count=5&layout=compact&theme=dark" alt="Languages Used"/>
 </div>
 
----
 
 ## 🛠️ Current Focus
 
 - Building full-stack applications using **React** and **Node.js**.
 - Enhancing my skills with **Firebase Authentication** and **Cloud Functions**.
 - Exploring new tools and frameworks for better web performance and scalability.
-
 
 
 ## 📞 Let’s Connect!
