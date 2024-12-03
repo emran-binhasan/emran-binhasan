@@ -69,20 +69,7 @@ I love collaborating on exciting projects and discussing innovative ideas. Feel 
     <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="40">
   </a>
 </div>
----
 
-## 📚 Let's Learn Together!
-
-I enjoy solving challenges on **LeetCode** and **HackerRank**. Check out my profiles below:
-
-<div align="center">
-    <a href="https://leetcode.com/u/emran_binhasan/" target="_blank">
-        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-    </a>
-    <a href="https://www.hackerrank.com/profile/emran_binhasan" target="_blank">
-        <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-    </a>
-</div>
 
 
 
