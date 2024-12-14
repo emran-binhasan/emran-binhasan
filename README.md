@@ -33,7 +33,7 @@ Here’s a quick look at my **contribution streak**, **total contributions**, an
 
 <div align="center">
     <a href="https://github.com/emran-binhasan" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=emran-binhasan&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark" alt="Emran's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=emran-binhasan&show_icons=true&hide_title=true&count_private=true&hide=prs" alt="Emran's GitHub Stats" />
     </a>
 </div>
 
@@ -43,9 +43,15 @@ Here’s a quick look at my **contribution streak**, **total contributions**, an
 Here are the most frequently used languages across my repositories:
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emran-binhasan&langs_count=5&layout=compact&theme=dark" alt="Languages Used"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emran-binhasan&layout=compact" alt="Languages Used"/>
 </div>
 
+### Trophies 
+
+Here are my trophies:
+<div align="center">
+  <img height="100" margin="20" src="https://github-profile-trophy.vercel.app/?username=MightyTechNinja&row=1&column=5" />
+</div>
 
 ## 🛠️ Current Focus
 
