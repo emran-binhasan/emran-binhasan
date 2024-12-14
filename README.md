@@ -50,7 +50,7 @@ Here are the most frequently used languages across my repositories:
 
 Here are my trophies:
 <div align="center">
-  <img height="100" margin="20" src="https://github-profile-trophy.vercel.app/?username=emran-binhasan&row=1&column=5" />
+  <img height="100" margin="20" src="https://github-profile-trophy.vercel.app/?username=emran-binhasan&row=1&column=4" />
 </div>
 
 ## 🛠️ Current Focus
