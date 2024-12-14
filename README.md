@@ -43,7 +43,7 @@ Here’s a quick look at my **contribution streak**, **total contributions**, an
 Here are the most frequently used languages across my repositories:
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emran-binhasan" alt="Languages Used"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emran-binhasan&layout=compact" alt="Languages Used"/>
 </div>
 
 ### Trophies 
