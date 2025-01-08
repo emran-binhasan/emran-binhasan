@@ -5,6 +5,8 @@
 
 ---
 
+![Header](./header-image.png)
+
 ## 🌟 About Me  
 
 I’m a passionate **Full-Stack Web Developer** from **Bangladesh** with expertise in building scalable, modern web applications using **React**, **Node.js**, and **MongoDB**. I thrive on working on innovative projects and exploring cutting-edge technologies to create impactful solutions.  
