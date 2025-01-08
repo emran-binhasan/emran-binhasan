@@ -3,11 +3,14 @@
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200">
 
 
-## Full-Stack Web Developer | React, Node.js, MongoDB | Passionate About Modern Web Technologies
+## About Me  
+I’m a passionate **Full-Stack Web Developer** from Bangladesh. I specialize in building scalable and modern web applications using **React**, **Node.js**, and **MongoDB**. I enjoy working on innovative projects and exploring cutting-edge technologies to deliver impactful solutions.  
 
-Welcome to my GitHub profile! I’m a passionate **Full-Stack Web Developer** from Bangladesh, currently building impactful web applications using **React**, **Node.js**, and **MongoDB**. I love creating clean, functional, and user-friendly web apps that make a difference. 💻✨
+### Current Activities:
+- 🌟 Exploring **NEXT.JS**.
+- 🚀 Working on a **tourism website** with React & Node.js.
+- ✍️ - 🌟 Exploring **PostgreSQL**.
 
----
 
 
 ## 🚀 Technologies & Tools
@@ -53,11 +56,7 @@ Here are my trophies:
   <img height="100" margin="20" src="https://github-profile-trophy.vercel.app/?username=emran-binhasan&row=1&column=4" />
 </div>
 
-## 🛠️ Current Focus
 
-- Building full-stack applications using **React** and **Node.js**.
-- Enhancing my skills with **Firebase Authentication** and **Cloud Functions**.
-- Exploring new tools and frameworks for better web performance and scalability.
 
 
 ## 📞 Let’s Connect!
