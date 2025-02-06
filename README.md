@@ -38,11 +38,9 @@ Here’s a quick snapshot of the technologies I work with:
 Here’s a quick look at my **contribution streak**, **total contributions**, and **longest streak**:  
 
 <div align="center">
-    <a href="https://github.com/emran-binhasan" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=emran-binhasan&show_icons=true&hide_title=true&count_private=true&hide=prs" alt="Emran's GitHub Stats" />
-    </a>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=emran-binhasan" alt="GitHub Streak" /></a>
 </div>
-[![GitHub Streak](https://streak-stats.demolab.com?user=emran-binhasan)](https://git.io/streak-stats)
+
 ### Most Used Languages  
 
 Here are the most frequently used languages across my repositories:  
