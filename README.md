@@ -42,7 +42,7 @@ Here’s a quick look at my **contribution streak**, **total contributions**, an
         <img src="https://github-readme-stats.vercel.app/api?username=emran-binhasan&show_icons=true&hide_title=true&count_private=true&hide=prs" alt="Emran's GitHub Stats" />
     </a>
 </div>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=emran-binhasan)](https://git.io/streak-stats)
 ### Most Used Languages  
 
 Here are the most frequently used languages across my repositories:  
