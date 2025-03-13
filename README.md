@@ -37,7 +37,7 @@ Here’s a quick snapshot of the technologies I work with:
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emran-binhasan)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
-  <img height="200" margin="20" src="https://github-profile-trophy.vercel.app/?username=emran-binhasan&row=1&column=4" alt="GitHub Trophies" />
+  <img height="160" margin="20" src="https://github-profile-trophy.vercel.app/?username=emran-binhasan&row=1&column=4" alt="GitHub Trophies" />
 
 ---
 
