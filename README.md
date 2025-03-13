@@ -33,15 +33,15 @@ Here’s a quick snapshot of the technologies I work with:
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emran-binhasan"  display=block width=68% height="160  alt="1" >
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emran-binhasan&layout=donut" height="160" width="28%" alt="Top Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emran-binhasan"  display=block width=68% height="170  alt="1" >
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emran-binhasan&layout=donut&hide_border=true" height="170" width="28%" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emran-binhasan&layout=donut&hide_border=true" height="160" width="42%" alt="Top Languages"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=emran-binhasan&no-frame=true&column=4&row=2" height="80" width="56%" alt="GitHub Trophies"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emran-binhasan" height="160" width="42%" alt="Top Languages"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=emran-binhasan&no-frame=true&column=4&row=1" height="160" width="56%" alt="GitHub Trophies"/>
 </div>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=emran-binhasan)](https://git.io/streak-stats)
 ---
 
 ## 📞 Let’s Connect!  
