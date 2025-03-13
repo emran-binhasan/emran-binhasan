@@ -35,8 +35,8 @@ Here’s a quick snapshot of the technologies I work with:
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emran-binhasan)](https://github.com/emran-binhasan)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emran-binhasan&layout=donut&hide_border=true" width="48%" alt="Top Languages"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=emran-binhasan&no-frame=true&column=2&row=2" width="48%" alt="GitHub Trophies"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emran-binhasan&layout=donut&hide_border=true" height="140" width="48%" alt="Top Languages"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=emran-binhasan&no-frame=true&column=2&row=2" height="140" width="48%" alt="GitHub Trophies"/>
 </div>
 
 ---
