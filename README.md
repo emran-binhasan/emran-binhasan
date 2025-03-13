@@ -32,12 +32,12 @@ Here’s a quick snapshot of the technologies I work with:
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emran-binhasan"  display=block height="145" width="auto"  alt="1" >
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emran-binhasan&layout=donut" height="145" width="auto" alt="Top Languages"/>
 </div>
 
-<div align="center">
+<div">
   <img src="https://streak-stats.demolab.com?user=emran-binhasan" height="140" width="auto" alt="Top Languages"/>
 </div>
 ---
