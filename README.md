@@ -31,13 +31,13 @@ Here’s a quick snapshot of the technologies I work with:
 
 ---
 
+## 📊 GitHub Stats
 
-## &#x1f4c8; GitHub Stats
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emran-binhasan)](https://github.com/emran-binhasan)
 
-[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emran-binhasan)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<img src="https://github-profile-trophy.vercel.app/?username=emran-binhasan&no-frame=true&column=4" width="50%" alt="GitHub Trophies"/>
 
-  <img width='50%' height="160" margin="20" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emran-binhasan&layout=donut&hide_border=true" />
-  <img width='50%  height="160" src="https://github-profile-trophy.vercel.app/?username=emran-binhasan&no-frame=true&column=2&row=2"  alt="GitHub Trophies"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emran-binhasan&layout=donut&hide_border=true" width="50%" alt="Top Languages"/>
 
 ---
 
