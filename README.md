@@ -1,4 +1,3 @@
-
 ![Header](./header-image.png)
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="140" alt="Developer Gif" />
@@ -11,7 +10,7 @@ I’m a passionate **Full-Stack Web Developer** from **Bangladesh** with experti
 
 ### 🔥 Current Activities:  
 - 🌱 Diving deeper into **GSAP**.  
-- 🚀 Building a **eCommerce Website** with **Nextjs** and **Node.js**.  
+- 🚀 Building an **eCommerce Website** with **Next.js** and **Node.js**.  
 - 📚 Exploring **NestJS and PostgreSQL**.  
 
 ---
@@ -35,9 +34,10 @@ Here’s a quick snapshot of the technologies I work with:
 
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emran-binhasan)](https://github.com/emran-binhasan)
 
-<img src="https://github-profile-trophy.vercel.app/?username=emran-binhasan&no-frame=true&column=4" width="50%" alt="GitHub Trophies"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emran-binhasan&layout=donut&hide_border=true" width="50%" alt="Top Languages"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emran-binhasan&layout=donut&hide_border=true" width="48%" alt="Top Languages"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=emran-binhasan&no-frame=true&column=2&row=2" width="48%" alt="GitHub Trophies"/>
+</div>
 
 ---
 
