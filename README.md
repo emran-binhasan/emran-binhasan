@@ -37,9 +37,9 @@ Here’s a quick snapshot of the technologies I work with:
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emran-binhasan&layout=donut&hide_border=true" height="170" width="28%" alt="Top Languages"/>
 </div>
 
-<div align="center">
+<div>
   <img src="https://streak-stats.demolab.com?user=emran-binhasan" height="160" width="62%" alt="Top Languages"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=emran-binhasan&no-frame=true&column=2&row=2" height="100" width="36%" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=emran-binhasan&no-frame=true&column=2&row=2" alt="GitHub Trophies"/>
 </div>
 ---
 
