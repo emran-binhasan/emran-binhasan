@@ -39,7 +39,7 @@ Here’s a quick snapshot of the technologies I work with:
 
 <div>
   <img src="https://streak-stats.demolab.com?user=emran-binhasan" height="160" width="62%" alt="Top Languages"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=emran-binhasan&no-frame=true&column=2&row=2" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=emran-binhasan&no-frame=true&column=3&row=1" alt="GitHub Trophies"/>
 </div>
 ---
 
