@@ -38,10 +38,9 @@ Here’s a quick snapshot of the technologies I work with:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emran-binhasan" height="160" width="42%" alt="Top Languages"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=emran-binhasan&no-frame=true&column=4&row=1" height="160" width="56%" alt="GitHub Trophies"/>
+  <img src="https://streak-stats.demolab.com?user=emran-binhasan" height="160" width="62%" alt="Top Languages"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=emran-binhasan&no-frame=true&column=2&row=2" height="100" width="36%" alt="GitHub Trophies"/>
 </div>
-[![GitHub Streak](https://streak-stats.demolab.com?user=emran-binhasan)](https://git.io/streak-stats)
 ---
 
 ## 📞 Let’s Connect!  
