@@ -10,9 +10,9 @@
 I’m a passionate **Full-Stack Web Developer** from **Bangladesh** with expertise in building scalable, modern web applications using **React**, **Node.js**, and **MongoDB**. I thrive on working on innovative projects and exploring cutting-edge technologies to create impactful solutions.  
 
 ### 🔥 Current Activities:  
-- 🌱 Diving deeper into **Next.js**.  
-- 🚀 Building a **tourism website** with **React** and **Node.js**.  
-- 📚 Exploring **PostgreSQL** for database development.  
+- 🌱 Diving deeper into **GSAP**.  
+- 🚀 Building a **eCommerce Website** with **Nextjs** and **Node.js**.  
+- 📚 Exploring **NestJS and PostgreSQL**.  
 
 ---
 
@@ -31,27 +31,13 @@ Here’s a quick snapshot of the technologies I work with:
 
 ---
 
-## 🎯 My GitHub Stats & Contributions  
 
-### Contribution Stats  
+## &#x1f4c8; GitHub Stats
 
-Here’s a quick look at my **contribution streak**, **total contributions**, and **longest streak**:  
-
-<div align="center">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=emran-binhasan" alt="GitHub Streak" /></a>
-</div>
-
-### Most Used Languages  
-
-Here are the most frequently used languages across my repositories:  
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emran-binhasan&layout=compact" alt="Languages Used"/>
-</div>
-
-### 🏆 Trophies  
-
-Here are my GitHub trophies:  
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdsami&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+  
+[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdsami&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+ 
 <div align="center">
   <img height="100" margin="20" src="https://github-profile-trophy.vercel.app/?username=emran-binhasan&row=1&column=4" alt="GitHub Trophies" />
 </div>
