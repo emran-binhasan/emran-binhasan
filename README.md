@@ -34,9 +34,9 @@ Here’s a quick snapshot of the technologies I work with:
 
 ## &#x1f4c8; GitHub Stats
 
-[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdsami&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emran-binhasan&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
   
-[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdsami&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emran-binhasan&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
  
 <div align="center">
   <img height="100" margin="20" src="https://github-profile-trophy.vercel.app/?username=emran-binhasan&row=1&column=4" alt="GitHub Trophies" />
