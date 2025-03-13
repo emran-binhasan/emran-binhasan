@@ -38,8 +38,8 @@ Here’s a quick snapshot of the technologies I work with:
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=emran-binhasan" height="160" width="auto" alt="Top Languages"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=emran-binhasan&column=4&row=1" height="160" width="auto" alt="GitHub Trophies"/>
+  <img src="https://streak-stats.demolab.com?user=emran-binhasan" height="145" width="auto" alt="Top Languages"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=emran-binhasan&column=4&row=1" height="145" width="auto" alt="GitHub Trophies"/>
 </div>
 ---
 
